@@ -34,10 +34,10 @@
 > - https://github.com/MGDharan/life-dashboard-hub
 
 > - Kindly submit the Live Application URL (Domain)
->https://lifegoal-dash-ai.lovable.app/
+> - https://lifegoal-dash-ai.lovable.app/
 
 > - Kindly submit the GitHub Pages (Documentation) URL
->https://mgdharan.github.io/life-dashboard-hub/
+> - https://mgdharan.github.io/life-dashboard-hub/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL

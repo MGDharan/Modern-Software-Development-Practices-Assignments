@@ -31,11 +31,9 @@
 > Team Project: AI Full Stack Application
 >
 > - Kindly submit the GitHub Repo URL
-> - 
->https://github.com/MGDharan/life-dashboard-hub
+> - https://github.com/MGDharan/life-dashboard-hub
 
 > - Kindly submit the Live Application URL (Domain)
-> - 
 >https://lifegoal-dash-ai.lovable.app/
 
 > - Kindly submit the GitHub Pages (Documentation) URL

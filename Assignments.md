@@ -16,16 +16,13 @@
 > Personal Portfolio Project
 >
 > - Kindly submit the GitHub Repo URL
-> - 
->https://github.com/MGDharan/AIML-ONE-CREDIT
+> - https://github.com/MGDharan/AIML-ONE-CREDIT
 >
-> - Kindly submit the Vercel Deployment URL
-> - 
->https://aiml-one-credit-one.vercel.app/
+> - Kindly submit the Vercel Deployment URL 
+> - https://aiml-one-credit-one.vercel.app/
 
 > - Kindly submit the GitHub Pages (Documentation) URL
-> - 
->https://mgdharan.github.io/AIML-ONE-CREDIT/
+> - https://mgdharan.github.io/AIML-ONE-CREDIT/
 
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application

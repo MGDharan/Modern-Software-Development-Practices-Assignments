@@ -17,7 +17,6 @@
 >https://github.com/MGDharan/AIML-ONE-CREDIT
 >
 > - Kindly submit the Vercel Deployment URL
->https://aiml-one-credit-q4llc328e-mgdharans-projects.vercel.app/
 >https://aiml-one-credit-one.vercel.app/
 
 > - Kindly submit the GitHub Pages (Documentation) URL

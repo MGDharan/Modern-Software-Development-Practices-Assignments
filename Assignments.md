@@ -2,11 +2,11 @@
 
 # 1 Certification Requirement
 > - AI Fluency for Students
+> 
 > https://verify.skilljar.com/c/rpkis4dbiimw
-> 
 > - Introduction to Agent Skills
-> https://verify.skilljar.com/c/zyv33a6r2q7e
 > 
+> https://verify.skilljar.com/c/zyv33a6r2q7e
 > Kindly upload the certifications PDF in Google Drive Link
 >https://drive.google.com/drive/folders/10E-NRHIj6C6JeH8Dn58fQ5oAyzUSgocr?usp=sharing
 

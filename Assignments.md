@@ -39,5 +39,5 @@
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> [https://www.linkedin.com/posts/giridharan-m-76541427a_lifedashboard-aiproject-softwaredevelopment-ugcPost-7444596871609626624-W5NT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMgD0BqCVdi-3SfO--yD-RxwVsPWUkGqw]
 

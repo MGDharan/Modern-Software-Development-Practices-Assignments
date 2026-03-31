@@ -22,16 +22,16 @@
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 >
-> -[ Kindly submit the GitHub Repo URL](https://github.com/MGDharan/life-dashboard-hub)
+> -https://github.com/MGDharan/life-dashboard-hub
 >
-> - Kindly submit the Live Application URL (Domain)
+> -https://lifegoal-dash-ai.lovable.app/
 >
-> - Kindly submit the GitHub Pages (Documentation) URL
+> - https://mgdharan.github.io/life-dashboard-hub/
 
 # 4 Linkedin Post
 > Submit the LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> [https://www.linkedin.com/posts/giridharan-m-76541427a_lifedashboard-aiproject-softwaredevelopment-ugcPost-7444596871609626624-W5NT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQMgD0BqCVdi-3SfO--yD-RxwVsPWUkGqw]
 
 ## For Second Year Buddies
 
